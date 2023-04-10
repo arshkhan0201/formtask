@@ -36,7 +36,6 @@ h1
 video 
 {
     width: 100%;
-    border: 1px solid black;
 }
 .audio
 {
@@ -48,7 +47,6 @@ audio
 {
     width: 100%;
     background-color: blue;
-    border: 1px solid black;
 }
 .accordian-body
 {
