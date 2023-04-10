@@ -8,10 +8,6 @@
     padding: 0px;
     font-family: Inter;
 }
-body 
-{
-    background-color:rgba(0, 251,251, 0.45) !important;
-}
 h1
 {
     text-align: center;
@@ -35,6 +31,7 @@ h1
     width: 80%;
     margin: 0px auto;
     padding-top: 50px;
+    border: none;
 }
 video 
 {
@@ -45,12 +42,24 @@ video
 {
     width: 80%;
     margin: 0px auto;
+    border: no;
 }
 audio
 {
     width: 100%;
     background-color: blue;
     border: 1px solid black;
+}
+.accordian-body
+{
+    background-color: azure;
+    margin-top: 20px;
+    padding: 20px 0px;
+
+}
+.accordian-body h2 
+{
+    text-align: center;
 }
 form 
 {
